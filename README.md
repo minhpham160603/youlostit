@@ -1,4 +1,1 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ECBXOc3j)
-YouLostIt Project
-
-TODO: Put the last 4 digits of the student ID number you are transmitting in this README.
+My work for the *Wireless Embedded Systems* course at UCSD. This is the firmware for a BLE device that detects when it is lost to beacon BLE signal to a smartphone, shows how long it has been lost, and automatically disconnects when it is moved (not lost).
