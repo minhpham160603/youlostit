@@ -1,2 +1,4 @@
-# youlostit
-My coursework for the Wireless Embedded Systems course. Developing a lost detection device that beacons BLE signal when lost for certain amount of time.
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ECBXOc3j)
+YouLostIt Project
+
+TODO: Put the last 4 digits of the student ID number you are transmitting in this README.
